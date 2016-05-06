@@ -16,6 +16,7 @@ We presented 2 projects, an open-source API we've been working on as well as a n
 C4 is an opensource creative-coding API for iOS. It can be used for building beautiful user experiences on iOS. 
 
 http://www.c4ios.com
+https://github.com/C4Framework/C4iOS/
 
 We build apps with C4:
 
