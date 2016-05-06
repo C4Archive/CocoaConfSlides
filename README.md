@@ -26,7 +26,11 @@ We also use it to create artworks:
 
 http://www.logicandform.com
 
+![C4](https://raw.githubusercontent.com/C4Framework/CocoaConfSlides/master/c4site.png)
+
 ### C4 Studio
 C4 Studio is a new tool we built that gives designers the ability to use C4 without coding. It harnesses the power of Sketch, and makes it extremely easy to animate static designs the export code:
 
 www.c4studio.co
+
+![C4](https://raw.githubusercontent.com/C4Framework/CocoaConfSlides/master/C4Studio.png)
