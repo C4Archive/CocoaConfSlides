@@ -15,6 +15,8 @@ We presented 2 projects, an open-source API we've been working on as well as a n
 ### C4 
 C4 is an opensource creative-coding API for iOS. It can be used for building beautiful user experiences on iOS. 
 
+![C4](https://raw.githubusercontent.com/C4Framework/CocoaConfSlides/master/c4site.png)
+
 http://www.c4ios.com
 https://github.com/C4Framework/C4iOS/
 
@@ -26,11 +28,10 @@ We also use it to create artworks:
 
 http://www.logicandform.com
 
-![C4](https://raw.githubusercontent.com/C4Framework/CocoaConfSlides/master/c4site.png)
-
 ### C4 Studio
 C4 Studio is a new tool we built that gives designers the ability to use C4 without coding. It harnesses the power of Sketch, and makes it extremely easy to animate static designs the export code:
 
+![C4](https://raw.githubusercontent.com/C4Framework/CocoaConfSlides/master/C4Studio.png)
+
 www.c4studio.co
 
-![C4](https://raw.githubusercontent.com/C4Framework/CocoaConfSlides/master/C4Studio.png)
